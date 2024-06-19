@@ -1,0 +1,7 @@
+.why {
+    background-image: url('../../images/WhyHelloFresh.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 500px; /* Bu yerda sizning kerakli balandlik */
+    width: 100%;
+}

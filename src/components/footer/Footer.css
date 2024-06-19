@@ -1,0 +1,33 @@
+.links__a{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+}
+.links__a a {
+ font-size: 18px;
+    color: green;
+}
+.links__a li {
+    margin-top: 10px;
+
+}
+.links__a p {
+    font-size: 18px; 
+}
+.links__a h3 {
+    font-size: 23px;
+    font-weight: 500;
+}
+hr{
+    margin-top: 30px; 
+}
+.description{
+    font-size: 20px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+.description a {
+    color:rgb(16, 85, 16);
+   
+}

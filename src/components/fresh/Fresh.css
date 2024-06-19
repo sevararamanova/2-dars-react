@@ -1,0 +1,19 @@
+.fresh {
+   margin-top: 100px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap:20px;
+  
+}
+.freshMeal button {
+  margin-left: 50%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+  padding:20px 40px;
+  border:1px solid green;
+  color:green;
+  background-color: white;
+  font-weight:500;
+  font-size: 18px;
+}

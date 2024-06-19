@@ -1,0 +1,7 @@
+.hero {
+    background-image: url('../../images/sectionHero.png');
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 700px; /* Bu yerda sizning kerakli balandlik */
+    width: 100%;
+  }
